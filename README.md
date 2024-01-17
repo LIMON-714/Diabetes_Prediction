@@ -1,2 +1,2 @@
 # Diabetes_Prediction
-Mixed Learning Programming 
+Machine Learning Programming 
